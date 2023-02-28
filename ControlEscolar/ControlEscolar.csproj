@@ -8,4 +8,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="logica\" />
+    <Folder Include="objetos\" />
+  </ItemGroup>
+
 </Project>
